@@ -158,16 +158,18 @@ This project demonstrates practical implementation of:
 ```text
 ecommerce-microservices-platform
 │
-├── docs
-│   └── architecture.md
+├── README.md
 │
-├── Auth Service
-├── Product Service
-├── Inventory Service
-├── Cart Service
-├── Order Service
-├── Discovery Service
-└── API Gateway
+├── docs
+│   ├── architecture.md
+│   ├── authentication-flow.md
+│   └── checkout-flow.md
+│
+├── diagrams
+│   └── system-architecture.png
+│
+└── assets
+    └── (optional images, logos, screenshots)
 ```
 
 ---
